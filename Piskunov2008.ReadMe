@@ -1,0 +1,77 @@
+J/A+A/477/165     Nearby open clusters tidal radii and masses  (Piskunov+, 2008)
+================================================================================
+Tidal radii and masses of open clusters.
+    Piskunov A.E., Schilbach E., Kharchenko N.V., Roeser S., Scholz R.-D.
+   <Astron. Astrophys. 477, 165 (2008)>
+   =2008A&A...477..165P
+================================================================================
+ADC_Keywords: Clusters, open ; Morphology
+Keywords: Galaxy: open clusters and associations: general -
+          solar neighbourhood - Galaxy: stellar content
+
+Abstract:
+    In a previous paper we obtained King's parameters for 236 of 650
+    Galactic open clusters identified in the ASCC-2.5 (Kharchenko, 2001,
+    Cat. <I/280>). Our aims is the estimate tidal radii by use of
+    observable parameters available for all clusters. Bias-free results
+    are required. We use methods of stellar statistics and develop a
+    semi-empirical model of open clusters.
+
+Description:
+    The table presents tidal radii and masses of 650 Galactic open
+    clusters. The tidal radii are derived from a relation between a
+    semi-major axis A of the density distributions of cluster members and
+    fitted King radii (J/A+A/468/151). The cluster masses are found from
+    cluster tidal radii assuming that the latter are good approximations
+    of limiting radii for local clusters moving at nearly circular orbits.
+    The clusters are a sample of the Catalogue of Open Cluster Data and
+    their members are selected from the high-precision, homogeneous
+    all-sky catalogue ASCC-2.5 (Kharchenko, 2001, Cat. <I/280>). The
+    clusters in the table are sorted according to their order in the COCD.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName   Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe         80        .   This file
+table.dat     124      650   Tidal radii and masses for 650 open clusters
+--------------------------------------------------------------------------------
+
+See also:
+          I/280 : All-sky Compiled Cat. of 2.5 million stars (Kharchenko, 2001)
+ J/A+A/438/1163 : Catalogue of Open cluster Data (COCD) (Kharchenko+, 2005)
+ J/A+A/440/403  : 109 new Galactic open clusters (COCD1) (Kharchenko+, 2005)
+ J/A+A/468/151  : Nearby open clusters radii and masses (Piskunov+, 2007)
+
+Byte-by-byte Description of file: table.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units      Label     Explanations
+--------------------------------------------------------------------------------
+   1-  4  I4    ---        COCD      (1-520, 1001-1130) COCD number
+   7- 23  A17   ---        Name      Cluster designation (NGC, IC or other) (1)
+  25- 31  F7.2  deg        GLON      Galactic longitude
+  32- 38  F7.2  deg        GLAT      Galactic latitude
+  39- 46  F8.3  mag        DistMod   Distance modulus
+  47- 52  F6.2  mag        E(B-V)    B-V Colour-excess
+  53- 58  I6    pc         Dist      Distance
+  59- 64  F6.2  [yr]       logt      Logarithm of age
+  65- 70  F6.1  pc         rt        ?=-9.9 Tidal radius
+  71- 76  F6.1  pc       e_rt        ?=-9.9 rms error rt
+  77- 85  F9.3 [solMass]   logM      ?=-9.999 Logarithm of cluster mass
+  86- 94  F9.3 [solMass] e_logM      ?=-9.999 rms error of logM
+  95-100  F6.1  pc         rtA       Tidal radius derived from semi-major axis A
+ 101-106  F6.1  pc       e_rtA       rms error of rtA
+ 107-115  F9.3 [solMass]   logMA     Log of Cluster mass from semi-major axis A
+ 116-124  F9.3 [solMass] e_logMA     rms error of logMA
+--------------------------------------------------------------------------------
+Note (1): There are clusters which overlap in the plane of the sky some
+     of which also have common members. The most prominent example is
+     the "double cluster" h and chi Per (COCD numbers 29 and 30). Their
+     semi-major axes A are overestimated due to the relatively large number
+     of common members, and so are their individual tidal radii and masses.
+--------------------------------------------------------------------------------
+
+Acknowledgements:
+    Ralf-Dieter Scholz, rdscholz(at)aip.de
+================================================================================
+(End)                                        Patricia Vannier [CDS]  03-Dec-2007
