@@ -11,8 +11,7 @@
 #EBV : Colour exces E(B-V) -- NOTE: some are missing this column, and not well separated below
 #logt : logarithm of the age
 #
-#Name	diameter	dist	Z	EBV	logt
-#
+Name	diameter[pc]	dist[pc]	Z	EBV	logt
 Alessi_1	4.22	302	-69	0.09	8.20
 Alessi_2	4.37	501	55	0.18	8.50
 Alessi_3	6.03	288	-76	0.11	8.70
