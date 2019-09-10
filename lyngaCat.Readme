@@ -1,0 +1,249 @@
+
+References
+Catalogue of Open Cluster Data, 5th Ed., Feb 1987, Gosta Lynga, Lund Observatory, Sweden.
+
+
+Parameters
+
+Name
+Cluster designation.
+
+Alt_Name
+Alternative Cluster designation.
+
+RA
+The Right Ascension of the object.
+
+Dec
+The Declination of the object.
+
+LII
+The galactic longitude of the object.
+
+BII
+The galactic latitude of the object.
+
+IAU_Num
+IAU Number.
+
+Seq_Code
+Sequence code.
+
+Seq_Num
+The number inside the sequence.
+
+Prec_RA
+Precession, by 10 yrs, for RA, in minutes.
+
+Prec_Dec
+Precession, by 10 yrs, for Dec, in minutes.
+
+Lund_Record_Num
+Record Number on Lund disc, 1st record number is 0 (zero).
+
+Ocl_Num
+OCL number.
+
+Angular_Diameter
+Angular diameter, min of arc.
+
+Ref_Angular_Diameter
+Reference for Angular diameter.
+
+Distance
+Distance in parsecs.
+
+Ref_Distance
+Reference for distance.
+
+Log_Age
+Log (age), years.
+
+Ref_Log_Age
+Reference for age.
+
+Metallicity
+Metallicity, log.
+
+Ref_Metallicity
+Reference for metallicity.
+
+E_BV
+Reddening, E(B-V).
+
+Ref_E_BV
+Reference for reddening.
+
+Type_Flag
+Indication of cluster type.
+
+Ref_Type_Flag
+Reference for type flag.
+
+Tr_Concent_Class
+Trumpler concentration class.
+
+Tr_Range_Class
+Trumpler range class.
+
+Tr_Richness_Class
+Trumpler richness class.
+
+Tr_Nebulosity
+Trumpler Nebulosity (n/u/e=1/2/3).
+
+SB_Bs_Mag
+Strasbourg-Bochum mag, brightest.
+
+SB_Spect_Code
+Strasbourg-Bochum spectral class.
+
+SB_Total_Mag
+Strasbourg-Bochum total mag.
+
+Sk_Total_Mag
+B. Skiff total magnitude.
+
+Sk_BV_Color
+Skiff integrated B-V.
+
+Sk_Num_Stars
+Number of Skiff stars considered.
+
+Ja_Star_Num
+Janes-Adler star number.
+
+Ja_Class
+Janes-Adler class.
+
+Ja_Max_Class
+Janes-Adler maximum class.
+
+Ja_Richness
+Janes-Adler richness class.
+
+Ja_E_BV
+Janes-Adler E(B-V).
+
+Ref_Ja_E_BV
+Janes-Adler E(B-V) reference.
+
+Ja_BV_Turnoff
+Janes-Adler B-V turn off.
+
+Ref_Ja_BV_Turnoff
+Janes-Adler BV turnoff reference.
+
+Ly_Tr_Concent_Class
+Trumpler concentration class '82.
+
+Ly_Tr_Range_Class
+Trumpler range class '82.
+
+Ly_Tr_Richness_Class
+Trumpler richness class '82.
+
+Ly_Tr_Nebulosity
+Trumpler Nebulosity '82.
+
+Ly_Member_Stars
+Number of member stars '82.
+
+Ly_Angular_Diameter
+Angular diameter '82 data.
+
+Ly_Refs_Flag
+1 if classified in references.
+
+RadVel_Weight
+Weights for radial velocity.
+
+RadVel
+Radial velocity (520), in km/s.
+
+RadVel_Weight_Class
+Weight class for radial velocity.
+
+Ref_Radvel1
+Reference 1 for radial velocity.
+
+Ref_Radvel2
+Reference 2 for radial velocity.
+
+Ref_Radvel3
+Reference 3 for radial velocity.
+
+Ref_Radvel4
+Reference 4 for radial velocity.
+
+Ref_Radvel5
+Reference 5 for radial velocity.
+
+Basel_Spect_Code
+Basel spectral type for hottest star.
+
+Basel_Color_Type
+Basel color type for bluest star.
+
+Neg_RA_Tracer
+Tracer, -RA, 1950.
+
+Neg_LII_Tracer
+Tracer, -longitude.
+
+Neg_Seq_Num_Tracer
+Tracer, -number in sequence.
+
+Pos_RA_Tracer
+Tracer, +RA, 1950.
+
+Pos_LII_Tracer
+Tracer, +longitude.
+
+Pos_Seq_Num_Tracer
+Tracer, +number in sequence.
+
+Jdl_Distance
+JDL distance in pc.
+
+Jdl_Distance_Weight
+JDL distance weight class.
+
+Jdl_Turnoff_Color
+JDL turn-off color.
+
+Jdl_Age
+JDL derived age.
+
+Jdl_Age_Weight
+JDL age weight class.
+
+Jdl_Reddening
+JDL reddening.
+
+Jdl_Reddening_Flag
+V if reddening varies.
+
+Jdl_Reddening_Weight
+JDL reddening weight class.
+
+Ref_Jdl1
+JDL reference 1.
+
+Ref_Jdl2
+JDL reference 2.
+
+Ref_Jdl3
+JDL reference 3.
+
+Ref_Jdl4
+JDL reference 4.
+
+Ref_Jdl5
+JDL reference 5.
+
+Ref_Jdl6
+JDL reference 6.
+
+Class
+BROWSE classification type. The classification is based on the `Type` parameter, if one is available.
