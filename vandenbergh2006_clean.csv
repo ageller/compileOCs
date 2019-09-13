@@ -1,4 +1,4 @@
-Simbad_ID,Seq,Name,l[deg],Diam[pc],R[pc],Z[pc],E(B-V),logT[yr],SimbadName,_RA[deg],_Dec[deg]
+Simbad_ID,Seq_vandenbergh,Name_vandenbergh,l[deg]_vandenbergh,Diam[pc]_vandenbergh,R[pc]_vandenbergh,Z[pc]_vandenbergh,E(B-V)_vandenbergh,logT[yr]_vandenbergh,SimbadName_vandenbergh,_RA[deg]_vandenbergh,_Dec[deg]_vandenbergh
 C_1756-281,1,Trumpler_31,2,1.43,986,-39, 0.35, 8.87,Trumpler_31,269.975,-28.183329999999998
 NGC_6520,2,NGC_6520,2,2.29,1577,-78, 0.43, 7.72,NGC_6520,270.85,-27.883329999999997
 NGC_6530,3,NGC_6530,6,5.42,1330,-31, 0.33, 6.87,NGC_6530,271.125,-24.366670000000003

@@ -1,4 +1,4 @@
-Simbad_ID,Name,dV,err_dV,[Fe/H],err_[Fe/H],t[Gyr],err_t,Rgc[kpc],z[pc],flag,tJP94[Gyr]
+Simbad_ID,Name_salaris,dV_salaris,err_dV_salaris,[Fe/H]_salaris,err_[Fe/H]_salaris,t[Gyr]_salaris,err_t_salaris,Rgc[kpc]_salaris,z[pc]_salaris,flag_salaris,tJP94[Gyr]_salaris
 Cl_King_2,King_2,2.2,0.15,0.0,0.2,5.03,1.31,12.98,-510,2,5.6
 IC_166,IC_166,1.0,0.25,-0.27,0.15,1.32,0.43,10.74,-10,1,1.5
 NGC_752,NGC_752,0.9,0.05,-0.09,0.06,1.24,0.2,8.75,-145,1,1.4
