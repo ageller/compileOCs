@@ -1,4 +1,4 @@
-ID,RA,Dec,ID_Simbad,ID_MWSC,ID_WEBDA,ID_Piskunov,ID_Kharchenko,ID_Salaris,ID_vandenBergh,ID_Cantat-Gaudin,ID_Lynga,dist[pc],err_dist[pc],N_dist[pc],age[Myr],err_age[Myr],N_age[Myr],[Fe/H],err_[Fe/H],N_[Fe/H],mass[Msun],err_mass[Msun],N_mass[Msun],rgc[pc],err_rgc[pc],N_rgc[pc],rhm[pc],err_rhm[pc],N_rhm[pc],Av[mag],err_Av[mag],N_Av[mag]
+ID,RA[hr],Dec[deg],ID_Simbad,ID_MWSC,ID_WEBDA,ID_Piskunov,ID_Kharchenko,ID_Salaris,ID_vandenBergh,ID_Cantat-Gaudin,ID_Lynga,dist[pc],err_dist[pc],N_dist[pc],age[Myr],err_age[Myr],N_age[Myr],[Fe/H],err_[Fe/H],N_[Fe/H],mass[Msun],err_mass[Msun],N_mass[Msun],rgc[pc],err_rgc[pc],N_rgc[pc],rhm[pc],err_rhm[pc],N_rhm[pc],Av[mag],err_Av[mag],N_Av[mag]
 [KPS2012]_MWSC_4688,23 51 54.000,-86 43 12.000,[KPS2012]_MWSC_4688,MWSC_4688,,,,,,,,1336.0,0.0,1.0,2454.708915685034,0.0,1.0,,,,28.5,0.0,1.0,,,,,,,,,
 [KPS2012]_MWSC_5684,12 53 43.000,-86 38 54.000,,MWSC_5684,,,,,,,,1432.0,0.0,1.0,1513.561248436207,0.0,1.0,,,,26.0,0.0,1.0,,,,,,,,,
 [KPS2012]_MWSC_5692,17 47 20.000,-86 36 36.000,,MWSC_5692,,,,,,,,1555.0,0.0,1.0,851.1380382023759,0.0,1.0,,,,14.0,0.0,1.0,,,,,,,,,
